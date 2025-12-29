@@ -11,7 +11,7 @@
   ],
   "author": "likaijiu",
   "description": "",
-  "fileApi": "",
+  "fileApi": "https://gitee.com/kaijiu-li/Minecraft-PanYuJiu-ModPack-Server/raw/master",
   "files": [
     {
       "hash": "9b003000e4daf0adcaa810cc1f4c07e1466d30a8",
@@ -740,7 +740,7 @@
       "type": "addon"
     }
   ],
-  "forceUpdate": false,
+  "forceUpdate": true,
   "launchInfo": {
     "javaArgument": [],
     "launchArgument": [],
@@ -755,6 +755,6 @@
     "install_mods": true,
     "install_resourcepack": true
   },
-  "url": "",
+  "url": "https://gitee.com/kaijiu-li/Minecraft-PanYuJiu-ModPack-Server",
   "version": "1.1"
 }
