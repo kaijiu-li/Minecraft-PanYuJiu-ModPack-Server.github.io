@@ -1,0 +1,37 @@
+
+[General]
+	#捆绑进度是否显示范围内的玩家
+	radiusTyingBar = true
+	#开启聊天模式后是否无视口塞风格
+	chatModeIgnoreGag = false
+	#是否在玩家被绑之后显示盔甲
+	#仅对自己视角下的所有玩家生效
+	onTiedArmorVisibility = false
+	#是否移除玩家间碰撞体积
+	ignoreBoundingBox = true
+	#显示多大范围内的玩家的捆绑条(0为无视距离) -格
+	#仅当radiusTyingBar为true生效
+	#Range: 0 ~ 128
+	radiusTyingBarRange = 3
+	#新箭头到来时的动画时长 -tick
+	#Range: 0 ~ 100
+	nextArrowsFadeInTick = 10
+	#挣扎数值变化结果提示的显示时间 -tick
+	#Range: 0 ~ 100
+	floatingTextFadeInTick = 20
+	#成功之后的箭头的渐隐时间 -tick
+	#Range: 0 ~ 100
+	wasHitArrowsFadeInTick = 20
+	#戴耳罩之后可见的聊天范围(0为所有聊天不可见，-1为所有聊天可见) -格
+	#Range: > -1
+	earplugRange = 0
+	#戴耳罩后的游戏音量修改(0时完全无声) -%
+	#Range: 0 ~ 100
+	earplugSoundVolume = 0
+	#渲染眼罩的不透明度 -%
+	#Range: 70 ~ 100
+	blindfoldAlpha = 100
+	#范围聊天模式默认范围(0时为无视范围) -格
+	#Range: 0 ~ 1024
+	chatCommandRange = 5
+

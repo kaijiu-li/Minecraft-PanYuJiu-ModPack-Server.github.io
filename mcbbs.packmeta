@@ -1,0 +1,760 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.4.10"
+    }
+  ],
+  "author": "likaijiu",
+  "description": "",
+  "fileApi": "",
+  "files": [
+    {
+      "hash": "9b003000e4daf0adcaa810cc1f4c07e1466d30a8",
+      "path": "icon.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4ace1b98478c0a5dcc5308ca2871a03e788572a7",
+      "path": "fclversion.cfg",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5b3e700954f1244a1d6a6e9eb453d0c190503ee1",
+      "path": "mods/1.20.1-maid_storage_manager-1.14.2-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ac987fea88f3923cc52dab193ca71c49b58fa9fc",
+      "path": "mods/1.20.1-maid_useful_task-1.3.7-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "308a0e92401e29bdb9cae24532a3b07a1bf6e757",
+      "path": "mods/Aquaculture-1.20.1-2.5.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6f223f2867a12cee2fb9d0951123826456a8b464",
+      "path": "mods/CraftTweaker-forge-1.20.1-14.0.59.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d49e8c29748677d0a530432f1c1bda4e9865da00",
+      "path": "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e8317997e81da1e05526d69f5aefe2f6a51c3636",
+      "path": "mods/Cuffed-1.20.1-1.3.13.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "51f3fcd4f8e340bb3ee773f8bb50f42a1d58f248",
+      "path": "mods/ExtraDisks-1.20.1-3.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18",
+      "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "38d4ac110b0213d352b1d166f386bac5d719ab65",
+      "path": "mods/ColdSweat-2.4-b06e.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "83277bed72beb5a633ac2451b1e2d9244cb6b0bc",
+      "path": "mods/IndustrialUpgrade-1.20.1-3.3.2.26.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2be2715b4ed23d943533e5bff0929ac6ba271759",
+      "path": "mods/Lazr\u0027s Lib-1.20-1.1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7d024842bf88af07c8d8aecb18a90d55d2075ed3",
+      "path": "mods/OELib-forge-1.20.1-0.0.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e91d2e2f251375d647d592b670ea6f310c2554eb",
+      "path": "mods/Patchouli-1.20.1-84.1-FORGE.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "84c039f20b8f048c835c429c2c4a9fd82a5e65f6",
+      "path": "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+      "path": "mods/Quark-4.0-462.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d823f6da5ea81ee09df8038dc5645986b184a451",
+      "path": "mods/The_Undergarden-1.20.1-0.8.14.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "de1c5adad2a77c7f6e168f2df6e7b82d9c3db719",
+      "path": "mods/ThirstWasTaken-1.20.1-1.4.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8c4a8ef0444b53ff408d5b89126285031081d92f",
+      "path": "mods/Zeta-1.0-31.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e20e281d1d8909d334a331e110ad091d4b03027f",
+      "path": "mods/aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
+      "path": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b090eabb552236ab515691c12bf94daf21471023",
+      "path": "mods/arsdelight-1.1.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d1e77cc4534cecc753a7d2ba4e84dec412a55025",
+      "path": "mods/bendy-lib-forge-4.0.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "896ac25f3cd3317662017a4a3f49e51eb86cf688",
+      "path": "mods/corn_delight-1.1.9-1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a625f5b0e377597f7c884768ea8b9d0a81206831",
+      "path": "mods/crabbersdelight-1.20.1-1.2.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5b6d1c8ab260f193522630a6154ac7c35d978a47",
+      "path": "mods/cratedelight-25.09.22-1.20-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b54a056daa1ab3fecaa19b6d4bd857dc6cbd84c0",
+      "path": "mods/cuisinedelight-1.1.17.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "40a73e5726628358a0d15c512096d018ecb81c4d",
+      "path": "mods/diamondvein-1.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c5f5d5980803259931dfa62236e888fb08ecf70a",
+      "path": "mods/diet-forge-2.1.1+1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "66883e7dbc20609c48f6bcb5af7962f5cdad3804",
+      "path": "mods/diligentstalker-forge-1.20.1-1.1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c318ed189e2e39a7770c61618a2f221ceef99359",
+      "path": "mods/endersdelight-forge-1.20.1-1.1.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "535c442625be4bd26ee637cdf7055c30b79a0b65",
+      "path": "mods/ends_delight-2.5.1+forge.1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3ecef6a32c36cffd14de39c3be7c5e16463781fd",
+      "path": "mods/fruitsdelight-1.1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "395a9f21a36dc8466d67c2af67a904e7013460d1",
+      "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6d6ab556c4b47b63354f30939bbc5f1025ff689e",
+      "path": "mods/jei-1.20.1-forge-15.20.0.128.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "817ab785307e34895900fa23ce9d5dc4ee8eadf5",
+      "path": "mods/miners_delight-1.20.1-1.2.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a13f7413da77910145c2c914d0b81819c3f2b7b2",
+      "path": "mods/moredelight-25.07.28-1.20-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "266368755f96e6cbd68f6cb7e2de0a566fb7f2a7",
+      "path": "mods/mysterious_mountain_lib-1.6.30-1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838",
+      "path": "mods/nethersdelight-1.20.1-4.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "32af985453bde77bfa56d59cdfb11cab5662c8e1",
+      "path": "mods/oceansdelight-1.0.2-1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c8bf8ed05d2603562477a4b9873d4fa98026d31a",
+      "path": "mods/powerutils-1.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c7119e4839ceba2f99a09f1a8107340a43e1b1c4",
+      "path": "mods/quantumgenerators-1.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "06e0c415a201f80969fdf8ff0eb1f07c8c7a5751",
+      "path": "mods/quark_delight_1.0.0_forge_1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "aa795ac789a6f51d3d8f2f0254f484b1c1b63a11",
+      "path": "mods/reactorplus-1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "36303a0050fa2ee1e84f2aa9e3db68b0f1cc554c",
+      "path": "mods/recipe_modification-neoforge-1.20.1-0.1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8c544a62cae151fe9f23580c58cb7ef8a0a30655",
+      "path": "mods/refinedcrafterproxy-4.1.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "014bf4de4975f6310d22a6ed06c6a7e1e0805641",
+      "path": "mods/refinedstorage-1.12.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "cdf4cee3f012bff3c3307b71992970b33bd726e4",
+      "path": "mods/refinedstorageaddons-0.10.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "37366658f7e22f061f9adae8675f518512d15858",
+      "path": "mods/rsrequestify-1.20.1-2.3.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5519aad2d247e5a90fe23ff5eb33fb2c71ab5716",
+      "path": "mods/rusticdelight-forge-1.20.1-1.4.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d376debf1f96f37dbedf56919baeb7da2dcef9ab",
+      "path": "mods/watut-forge-1.20.1-1.2.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b16077d9af23a3f3274dc8ceb3ccd37847a23840",
+      "path": "mods/simplyquarries-1.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "adb0b83dc8b9b9b422e1247911000400b9077530",
+      "path": "mods/smartkeyprompts-forge-1.20.1-1.1.2-fix2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7df14b1e4d38343add635c528083586c8ac31b03",
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.24.15.1445.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "32a92a736061f996d1b88faf7c0cce9e1bc7ee97",
+      "path": "mods/sophisticatedcore-1.20.1-1.2.114.1323.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "762060f6654637013d51cd85a5025a9c92d0f228",
+      "path": "mods/stackedblocks-25.02.13-1.20-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f5d669c70e53eeb2618e2c445a9758f95a2a5f70",
+      "path": "mods/stackedblocksfarmersdelight-25.02.13-1.20-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7df2c44c5ca02e3d550b46d543143935f7c6748b",
+      "path": "mods/storagedelight-25.12.09-1.20-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "869decffc818e6ccd7d6d0d734aecfaa265e908b",
+      "path": "mods/tacz-1.20.1-1.1.7-release.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "11892c8c5a6855791792727bebb65513ae4ccb3a",
+      "path": "mods/telepathicmaid-1.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "aa7a75fa98c7b50bb7db97ce7eccae6d340ddb82",
+      "path": "mods/touhou_little_maid_spell-1.6.1.2-forge+mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5edb109c4a4ebbd1f7cbd037fdc96231db4049ef",
+      "path": "mods/touhoulittlemaid-1.4.6-forge+mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8fee2ecc50a8ae5f71bfb0e0230ac594634c64da",
+      "path": "mods/twilightdelight-2.0.17.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
+      "path": "mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2daeeeedb2251ef8202d68b586072e8262d4bee7",
+      "path": "mods/undergardendelight-1.1.2-forge-1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "68296d5aec31299bebfba7f8572409447b9a5fe7",
+      "path": "mods/universalgrid-1.20.1-1.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2ffb57dc3f0f0c3de1be2871df4c0f8e7a7933df",
+      "path": "mods/vegandelight-2.0.0-beta4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "279a68afc8d815e957cabc689e925cdaf7578109",
+      "path": "mods/vintagedelight-0.1.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7a0d1fc1bf2e1757324397da10a8d1ee7a8329a6",
+      "path": "mods/wateringcan-1.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "107ed7cddb742a18f560ad79a2891baa2a7cb2fd",
+      "path": "mods/orgasm-1.20.1-0.0.9.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2774b44a6249e317f970b19cc90e0333b3cfa05c",
+      "path": "mods/chloride-FORGE-mc1.20.1-v1.7.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "fb9b4c71539c6e78ca561ef40c0227a8c6bc5596",
+      "path": "mods/genshinstrument-1.20-1.20.1-5.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7fde7917655a3356cab92f17ad2bca34962c4928",
+      "path": "mods/ftb-chunks-forge-2001.3.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7f36ec4af42ad1d69872c58022e93a9d1b9c82b7",
+      "path": "mods/ftb-library-forge-2001.2.12.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1ef101b4c5991cc239d9b56a95500e3b404228f7",
+      "path": "mods/ftb-ranks-forge-2001.1.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c2af94e0b86631cb75daa8de2377ff72527651ca",
+      "path": "mods/ftb-teams-forge-2001.3.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0ac05e68f59982edf3a594bbe637cb7cdd354b9c",
+      "path": "mods/KawaiiDishes_1.10.2-1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1e9a7bb853dd92ea2e0a0fe0c27917878815e7ec",
+      "path": "mods/PlayerCollars-1.2.6+1.20.1-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ea2a85c5c8fc539a3fdf9a5d889743c887a43ea3",
+      "path": "mods/Windows Keyboard Fixes-forge-1.17-to-atleast-1.20-1.0.1-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0410ab9636c69324e3671012af64c7743f6d6079",
+      "path": "mods/chat_heads-0.14.2-forge-1.20.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "9a68e328d4bde56528888c97bc5ff6b87a3c45b5",
+      "path": "mods/fiahi-3.1.5.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c059c04c8079058872c921f96ebdbbf48e885887",
+      "path": "mods/hojojutsu-1.20.1-1.0.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "281989d937d10266e059d4df4813cdb536531584",
+      "path": "mods/betterdays-1.20.1-3.3.4.5-FORGE.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "896aed39ccc8ecf13936b0b60c9fd55a92a18a6b",
+      "path": "mods/skinlayers3d-forge-1.10.1-mc1.20.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1715f29194b961cd4b97cc77ac18dd54a4fe9be9",
+      "path": "mods/koremods-modlauncher-1.0.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1ec77a7df8adbf3290a296bf25b8f99f37a60020",
+      "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "fa8497a33fa9c39d0feac34e22eccb51bb29bdfa",
+      "path": "mods/sccore-1.20.1-0.1.7.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "073bd182a26ddf875e9ab51dfc0726868aa65b04",
+      "path": "mods/sleeping-bags-forge-1.20.1-1.0.9.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "47b3b043e9bc755e2a320744ffe2cfe8018b7a32",
+      "path": "mods/Somnia-Awoken-1.20.1-3.3.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "3b13f657cc9fceb8c3b518834e9c642d57359ffa",
+      "path": "mods/maidsoulkitchen-1.20.1-alpha-v0.3.0.9-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "aa4456aeeb67a9797b0a07d16bd2c372197ba117",
+      "path": "mods/BedBenefits-Forge-1.20.1-13.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "173c30c8918da57be9398b3687ea19a81455c2c1",
+      "path": "mods/zombieawareness-1.20.1-1.13.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d4b780795cc111b11c84bbf4cfb05a72f36904e1",
+      "path": "mods/ContingameIME-1.0.7-1.20.1-forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "97a282bb3c78d13bf0e2f2a4ea6c5ae5eb854c02",
+      "path": "mods/IMBlocker-5.4.6.1-forge+1.17-1.20.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "aa8a97d2ffafaa56e1813132073bac76db7535ca",
+      "path": "mods/Female-Gender-Mod-forge-1.20.1-3.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1c745006f555126b2f68d93b38909d62517ba1ba",
+      "path": "config/hojojutsu-client.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5dc87dd331928c0f9e6613e69be94c7377383222",
+      "path": "options.txt",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "path": "log4j2.xml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "bafc82177445bd3fbceccffdac76cbc156fab0de",
+      "path": "resourcepacks/§6Immersive§8_§6Interfaces§8.zip",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "593ac65a458b88e27e3f96332ab3e3b41b1dd400",
+      "path": "servers.dat",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "231380073231d2812497b2be8d12dd38fef3ead8",
+      "path": "patchouli_data.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "9b003000e4daf0adcaa810cc1f4c07e1466d30a8",
+      "path": "PCL/Logo.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "522b7dcd7e150fb9b14eeac2f4cd59679821db49",
+      "path": "PCL/Setup.ini",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "494b84f695c359aae3928538650b34e951e4c3fc",
+      "path": "PCL/config.v1.yml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "feb53824384330fdae4e709093bc8d5ac0cf3086",
+      "path": "PCL/config.v1.yml.bak",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "99b2ee199b61095cb77530f68bd79b714486eddb",
+      "path": "ZalithLauncher/version.config",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "9b003000e4daf0adcaa810cc1f4c07e1466d30a8",
+      "path": "ZalithLauncher/VersionIcon.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d990e201d555a20a742200df33ea94040ba68fcd",
+      "path": "ZalithLauncher/VersionInfo.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8da3c36faf5b165997e0d0a70da4220e201acd0c",
+      "path": "ZalithLauncher/VersionConfig.json",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "bc2346f3f26113339f9ca0e72155ffb14bd31ae5",
+      "path": "modrinth.index.json",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "forceUpdate": false,
+  "launchInfo": {
+    "javaArgument": [],
+    "launchArgument": [],
+    "minMemory": 0
+  },
+  "libraries": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "Minecraft 潘屿玖 Server Java",
+  "origin": [],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "url": "",
+  "version": "1.1"
+}

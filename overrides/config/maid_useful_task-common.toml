@@ -1,0 +1,20 @@
+
+[misc]
+	self_rescue = true
+
+[functions]
+	logging = true
+	revive = true
+	locate = true
+
+[revive]
+	aggro = false
+	totem = true
+
+[logging]
+	disable_blockup = false
+
+[vehicle_control]
+	full = true
+	rotate = true
+

@@ -1,0 +1,15 @@
+
+[general]
+	#是否开启第一人称下的屏幕颤抖
+	orgasmCameraTremble = true
+	#是否把高潮进度条放在快捷栏上方
+	progressOnHotbar = false
+	#蓝牙连接的目标玩家超出范围后是否自动断连
+	bluetoothAutoDisconnect = false
+	#高潮屏幕渲染的图片链接，若无请留空
+	orgasmOverlayUrl = ""
+
+[hojojutsu]
+	#邀请券书写台是否显示hojojutsu的动画内容
+	ittShowHojojutsu = false
+

@@ -1,0 +1,18 @@
+{
+  "author": "likaijiu",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.4.10",
+        "primary": true
+      }
+    ]
+  },
+  "name": "Minecraft 潘屿玖 Server Java",
+  "overrides": "overrides",
+  "version": "1.1"
+}

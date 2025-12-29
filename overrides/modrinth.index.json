@@ -1,0 +1,12 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "Minecraft 潘屿玖 Server",
+  "summary": "1.20.1, Forge 47.4.10, 统一通行证验证",
+  "files": [],
+  "dependencies": {
+    "minecraft": "1.20.1",
+    "forge": "47.4.10"
+  }
+}
