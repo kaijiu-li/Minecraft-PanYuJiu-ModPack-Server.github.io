@@ -614,8 +614,38 @@
       "type": "addon"
     },
     {
+      "hash": "e831fdf45686fd1f34e69aa6be07c2e8ec16ad5d",
+      "path": "mods/jecharacters-1.20.1-forge-4.6.2.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "hash": "aa4456aeeb67a9797b0a07d16bd2c372197ba117",
       "path": "mods/BedBenefits-Forge-1.20.1-13.0.3.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "8b70aed9e35ad78fdc2f9fcb94a29dc64ba8d757",
+      "path": "mods/toms_storage-1.20-1.7.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b7f12ae710888b01746507a0aa8cb375f5897158",
+      "path": "mods/Mekanism-1.20.1-10.4.16.80.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0d22b1cc01a33702f1b9e17b26cc55e233a4e7ff",
+      "path": "mods/MekanismTools-1.20.1-10.4.16.80.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e484d2f2556bb638c4c3da5e5542eae70035f98a",
+      "path": "mods/veinmining-forge-1.5.0+1.20.1.jar",
       "force": true,
       "type": "addon"
     },
@@ -650,8 +680,20 @@
       "type": "addon"
     },
     {
+      "hash": "d8049d6ec86befcd100a0ff0fc8ebc289f735997",
+      "path": "mods/emi-1.1.22+1.20.1+forge.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "hash": "1c745006f555126b2f68d93b38909d62517ba1ba",
       "path": "config/hojojutsu-client.toml",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6",
+      "path": "config/splash.properties",
       "force": true,
       "type": "addon"
     },
@@ -755,6 +797,6 @@
     "install_mods": true,
     "install_resourcepack": true
   },
-  "url": "https://gitee.com/kaijiu-li/Minecraft-PanYuJiu-ModPack-Server",
-  "version": "1.1"
+  "url": "",
+  "version": "1.1.1"
 }

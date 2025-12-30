@@ -1,7 +1,0 @@
-
-["Render Radius"]
-	#For DroneStalker and ArrowStalker.
-	Normal = 5
-	#For VoidStalker.
-	Special = 7
-
