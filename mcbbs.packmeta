@@ -10,7 +10,7 @@
     }
   ],
   "author": "likaijiu",
-  "description": "",
+  "description": "This is an integration package file for Minecraft.\n\n⚠️ This server requires Minecraft Unified Pass genuine authentication. You need to register an account and use the corresponding login method to access the server (otherwise, username verification will fail).\n\nMinecraft Unified Pass Registration \u0026 Login\nhttps://login.mc-user.com:233/d20f1ab9de1a11f09215e04acd26563f/loginreg\nMinecraft Unified Pass Authentication ID (for PCL Launcher)\nd20f1ab9de1a1f09215e04acd26563f\nMinecraft Unified Pass Authentication Address (for other launchers)\nhttps://auth.mc-user.com:233/d20f1ab9de1a11f09215e04acd26563f\n\n这个一个用于Minecraft的整合包文件\n\n⚠️本服务器有[Minecraft 统一通行证]正版认证，你需要注册账号并且使用对应的登录方式才能进入服务服(否则验证用户名失败)\n\nMINECRAFT 统一通行证 登录注册\nhttps://login.mc-user.com:233/d20f1ab9de1a11f09215e04acd26563f/loginreg\nMinecraft 统一通行证 认证ID(给PCL启动器用的)\nd20f1ab9de1a1f09215e04acd26563f\nMinecraft 统一通行证 认证地址(给其他启动器用的)\nhttps://auth.mc-user.com:233/d20f1ab9de1a11f09215e04acd26563f",
   "fileApi": "https://gitee.com/kaijiu-li/Minecraft-PanYuJiu-ModPack-Server/raw/master",
   "files": [
     {
@@ -686,6 +686,12 @@
       "type": "addon"
     },
     {
+      "hash": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "hash": "1c745006f555126b2f68d93b38909d62517ba1ba",
       "path": "config/hojojutsu-client.toml",
       "force": true,
@@ -698,7 +704,7 @@
       "type": "addon"
     },
     {
-      "hash": "5dc87dd331928c0f9e6613e69be94c7377383222",
+      "hash": "f997e3c1fdcd91474746bb897c42fbf1114fd29c",
       "path": "options.txt",
       "force": true,
       "type": "addon"
@@ -798,5 +804,5 @@
     "install_resourcepack": true
   },
   "url": "",
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
